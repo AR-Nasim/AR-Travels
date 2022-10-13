@@ -1,0 +1,17 @@
+.navbar{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.link{
+    color: black;
+    text-decoration: none;
+    font-weight: 450;
+    font-size: 20px;
+    padding: 5px 7px;
+}
+.link:hover{
+    transition: .4s;
+    color: #3ABDC1;
+    border-radius: 5px;
+}

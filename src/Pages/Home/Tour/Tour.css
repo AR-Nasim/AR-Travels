@@ -1,0 +1,25 @@
+.card{
+    overflow: hidden;
+}
+.card-img:hover{
+    transition: .5s;
+    transform: scale(1.2);
+}
+.card-footer{
+    background-color: transparent;
+    border: none;
+}
+.btn-custom{
+    color: white;
+    padding: 5px 10px;
+    transition: .4s;
+    background-color: #3ABDC1;
+    border: 2px solid #3ABDC1;
+    outline: none;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.btn-custom:hover{
+    background-color: transparent;
+    color: #3ABDC1;
+}

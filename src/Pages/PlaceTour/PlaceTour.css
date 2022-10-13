@@ -1,0 +1,14 @@
+.hook-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.hook-form input{
+    width: 80%;
+    margin: 5px 0;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: 1px solid #3ABDC1;
+}

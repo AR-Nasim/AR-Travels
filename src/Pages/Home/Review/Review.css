@@ -1,0 +1,14 @@
+.review-card, .review-card img{
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+}
+.review::before{
+    content: open-quote;
+    font-size: 24px;
+    color: gray;
+}
+.review::after{
+    content: close-quote;
+    font-size: 24px;
+    color: gray;
+}

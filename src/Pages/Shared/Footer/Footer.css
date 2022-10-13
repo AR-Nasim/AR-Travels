@@ -1,0 +1,12 @@
+.footer{
+    width: 100%;
+    background-color: #353b48;
+    color: white;
+    position: absolute;
+    bottom: 0;
+    padding: 10px;
+}
+.fab{
+    margin: 5px;
+    color: #3ABDC1;
+}
